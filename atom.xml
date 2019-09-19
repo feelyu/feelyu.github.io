@@ -2,18 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feelyu.github.io</id>
     <title>FeelYu</title>
-    <updated>2019-09-19T08:19:37.037Z</updated>
+    <updated>2019-09-19T10:03:43.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feelyu.github.io"/>
     <link rel="self" href="https://feelyu.github.io/atom.xml"/>
-    <subtitle>子非鱼安知鱼之乐</subtitle>
+    <subtitle>人生很短，心存敬畏。</subtitle>
     <logo>https://feelyu.github.io/images/avatar.png</logo>
     <icon>https://feelyu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, FeelYu</rights>
     <entry>
+        <title type="html"><![CDATA[健身那点事]]></title>
+        <id>https://feelyu.github.io/post/jian-shen</id>
+        <link href="https://feelyu.github.io/post/jian-shen">
+        </link>
+        <updated>2019-09-19T09:45:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>2019年6月中旬我开始尝试去健身房锻炼。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2019年6月中旬我开始尝试去健身房锻炼。</p>
+<!-- more -->
+<p>我去的是一个24小时自助健身房，里面很多器械我都不会用，更别说标准动作了。</p>
+<p>我知道没有一个计划很难成功，所以开始时我给自己列了一个简单的清单——锻炼哪个部位做哪些动作。</p>
+<h3 id="第1个月">第1个月</h3>
+<p>我每周会去3次左右，由于没人指导的缘故，我犯了许多错误，其中有几个导致我身体受到明显的伤害。如下所示：</p>
+<ol>
+<li>右手不能伸直（具体怎么造成我也不知道，过了2天才开始恢复正常的）</li>
+<li>右手肘部疼痛（疼了2周，这时我意识到在锻炼前要先热身）</li>
+</ol>
+<h3 id="第2-3个月">第2-3个月</h3>
+<p>我在健身房得到了一个人的指导，他让我意识到了，锻炼胸部的时候，要夹紧肩胛骨。在9月的时候，可以明显的看到我是有胸肌人了，但左右大小不一致，原因是我右手臂发力较多，目前我还不知道该怎么解决它。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我与Hackintosh]]></title>
-        <id>https://feelyu.github.io/post/wo-yu-hackintosh</id>
-        <link href="https://feelyu.github.io/post/wo-yu-hackintosh">
+        <id>https://feelyu.github.io/post/Hackintosh</id>
+        <link href="https://feelyu.github.io/post/Hackintosh">
         </link>
         <updated>2019-09-19T08:04:47.000Z</updated>
         <summary type="html"><![CDATA[<p>我是在14年的时候开始接触黑苹果，直至2019年好像每年都有折腾，为此浪费不少时间与金钱。</p>
@@ -21,19 +43,19 @@
         <content type="html"><![CDATA[<p>我是在14年的时候开始接触黑苹果，直至2019年好像每年都有折腾，为此浪费不少时间与金钱。</p>
 <!-- more -->
 <h2 id="我在macos-mojave上遇到的问题">我在MacOS MoJave上遇到的问题</h2>
-<p>先梳理一下clover efi文件<br>
-<strong>Drivers/UEFI</strong><br>
-ApfsDriverLoader-64.efi(OSX10.13以上的硬盘分区格式是APFS)<br>
+<p>先梳理一下clover efi文件</p>
+<p><strong>Drivers/UEFI</strong><br>
+ApfsDriverLoader-64.efi（OSX10.13以上的硬盘分区格式是APFS）<br>
 AptioMemoryFix-64.efi（内存修复）<br>
-EmuVariableUefi-64.efi(对UEFI启动无法调用NVRAM的机器提供的NVRAM模拟)<br>
-FSInject-64.efi<br>
-VBoxHfs-64.efi<br>
-VirtualSmc.efi(替代facksmc)</p>
+EmuVariableUefi-64.efi（对UEFI启动无法调用NVRAM的机器提供的NVRAM模拟）<br>
+FSInject-64.efi（加载clover-kexts驱动）<br>
+VBoxHfs-64.efi（提供HFS Plus 文件系统的支持）<br>
+VirtualSmc.efi（替代facksmc）</p>
 <h3 id="osx10146-打不开jpg无响应">osx10.14.6 打不开jpg（无响应）</h3>
 <p>boot arguments添加</p>
 <pre><code>shikigva=32 shiki-id=Mac-7BA5B2D9E42DDD94
 </code></pre>
-<p>下载<strong>NoVPAJpeg.kext</strong><br>
+<p>下载<code>NoVPAJpeg.kext</code><br>
 放到EFI\Clover\kexts\other里，重启即可。</p>
 <p>NoVPAJpeg Lilu插件介绍：禁用AppleVPA框架的硬件JPEG解碼功能，該功能在某些系統上打破了Preview和Quicklook。</p>
 ]]></content>
