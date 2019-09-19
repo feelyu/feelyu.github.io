@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>关于 | FeelYu</title>
+<title>我与Hackintosh | FeelYu</title>
 <meta name="description" content="子非鱼安知鱼之乐">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -81,19 +81,47 @@
       <div class="sm-12 md-8 col">
         <div class="paper">
           <article class="article">
-            <h1>关于</h1>
+            <h1>我与Hackintosh</h1>
             <p class="article-meta">
-              2019-01-25
+              2019-09-19
               
             </p>
             
             <div class="post-content">
-              <p>这是关于的页面，可以在这里向世界介绍你！</p>
+              <p>我是在14年的时候开始接触黑苹果，直至2019年好像每年都有折腾，为此浪费不少时间与金钱。</p>
+<!-- more -->
+<h2 id="我在macos-mojave上遇到的问题">我在MacOS MoJave上遇到的问题</h2>
+<p>先梳理一下clover efi文件<br>
+<strong>Drivers/UEFI</strong><br>
+ApfsDriverLoader-64.efi(OSX10.13以上的硬盘分区格式是APFS)<br>
+AptioMemoryFix-64.efi（内存修复）<br>
+EmuVariableUefi-64.efi(对UEFI启动无法调用NVRAM的机器提供的NVRAM模拟)<br>
+FSInject-64.efi<br>
+VBoxHfs-64.efi<br>
+VirtualSmc.efi(替代facksmc)</p>
+<h3 id="osx10146-打不开jpg无响应">osx10.14.6 打不开jpg（无响应）</h3>
+<p>boot arguments添加</p>
+<pre><code>shikigva=32 shiki-id=Mac-7BA5B2D9E42DDD94
+</code></pre>
+<p>下载<strong>NoVPAJpeg.kext</strong><br>
+放到EFI\Clover\kexts\other里，重启即可。</p>
+<p>NoVPAJpeg Lilu插件介绍：禁用AppleVPA框架的硬件JPEG解碼功能，該功能在某些系統上打破了Preview和Quicklook。</p>
 
             </div>
           </article>
         </div>
         <div class="paper" data-aos="fade-in">
+          
+            <div class="next-post">
+              <div class="next">
+                下一篇
+              </div>
+              <a href="https://feelyu.github.io/post/wo-you-kai-shi-nong-bo-ke-liao">
+                <h3 class="post-title">
+                  我又开始弄博客了
+                </h3>
+              </a>
+            </div>
           
         </div>
         
