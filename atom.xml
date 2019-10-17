@@ -1,19 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://feelyu.github.io</id>
+    <id>https://feelyu.github.io/</id>
     <title>FeelYu</title>
-    <updated>2019-09-20T11:19:56.590Z</updated>
+    <updated>2019-10-17T08:00:56.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://feelyu.github.io"/>
-    <link rel="self" href="https://feelyu.github.io/atom.xml"/>
+    <link rel="alternate" href="https://feelyu.github.io/"/>
+    <link rel="self" href="https://feelyu.github.io//atom.xml"/>
     <subtitle>做你自己，因为别人都有人做了。</subtitle>
-    <logo>https://feelyu.github.io/images/avatar.png</logo>
-    <icon>https://feelyu.github.io/favicon.ico</icon>
+    <logo>https://feelyu.github.io//images/avatar.png</logo>
+    <icon>https://feelyu.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, FeelYu</rights>
     <entry>
+        <title type="html"><![CDATA[关于睡觉]]></title>
+        <id>https://feelyu.github.io//post/guan-yu-shui-jue</id>
+        <link href="https://feelyu.github.io//post/guan-yu-shui-jue">
+        </link>
+        <updated>2019-10-17T07:23:48.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近我连续3天没有睡好了，于是我去研究怎么睡觉。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>最近我连续3天没有睡好了，于是我去研究怎么睡觉。</p>
+<!-- more -->
+<p>入睡时间：晚上 10 點 45 分 至 12 點 45 分 (22:45-00:45 h)<br>
+起床时间：早上 6 點半 至 8 點半 (06:30-08:30 h)</p>
+<p>以上是我个人的测试结果，数据来自慕尼黑大学睡眠类型的量表。<br>
+测试网址：https://cet.org/wp-content/uploads/2018/01/MEQ-SA-TradChi.pdf</p>
+<h2 id="核心观点">核心观点</h2>
+<ul>
+<li>睡前、醒后的一段时间（大约 90 分钟）和睡眠本身一样重要，会有效影响睡眠质量和自己第二天的状态；</li>
+<li>睡眠的质量应该以「周」为单位统计，不要因为一天的睡眠质量而过早判断；</li>
+<li>失眠的一个重要原因是「担心自己会失眠」</li>
+</ul>
+<h3 id="睡眠前后">睡眠前后</h3>
+<p>对于睡眠而言，重要的不只是床上的那段时间，睡眠前的准备和醒后的「仪式」也非常重要。对于晚睡晚起类型，醒后的仪式更加重要，会直接影响一天的效率，应该好好利用这段时间有效的唤醒自己。</p>
+<blockquote>
+<p>我们平时上班的时候，起床后要很认真的洗漱穿戴、吃早饭，其实这就是一种唤醒活动。而突然放假在家，起床后这些活动被省略或者简化，就会导致唤醒不彻底、白天不精神。</p>
+</blockquote>
+<p>备注:1、人在睡眠中，体温会渐渐降低。如果卧室的温度太高，就很容易影响睡眠质量；2、不要在周末睡懒觉，来回调节颠倒会很痛苦。</p>
+<h3 id="r90-睡眠周期">R90 睡眠周期</h3>
+<p>人的一般睡眠周期为 90 分钟，睡眠的过程就是浅度睡眠到深度睡眠再到浅度睡眠的不断循环。计算睡眠时间，最好以周期的倍数计算，而不是简单的「N 小时」，所谓的「每天 8 小时」，其实应该是每天 5 个周期（7.5 小时）。</p>
+<p>一般而言，我们通常需要每周 35 个睡眠周期，平均下来每天 5 个。可以用一个星期来实验一下，看看自己到底需要多少个睡眠周期，有的人可能只要 28 个，而有的人可能需要 40 多个，还是因人而异。如果白天精神抖擞，说明睡眠周期足够；如果觉得很困倦，可能是因为睡眠不足。</p>
+<h3 id="日间小睡">日间小睡</h3>
+<p>日间小睡（中午或者傍晚）可以最为一周睡眠周期的有效补充。30 分钟的小睡甚至可以媲美晚上的一整个睡眠周期的效果。如果晚上睡眠不足，那么千万不要忽视日间小睡。如果晚上睡眠充足，没有午睡也无需太担心。</p>
+<ul>
+<li>小睡可以用来弥补晚上睡眠周期的不足，计入每周睡眠的周期数；</li>
+<li>小睡要么短点 30 分钟左右，要么就一个完整的周期；</li>
+<li>傍晚也是一个有效的小睡时机，适合晚睡晚起类型；</li>
+<li>即使是 30 分钟的小睡，也可以作为一个完整睡眠周期来统计；</li>
+</ul>
+<h3 id="睡眠环境">睡眠环境</h3>
+<ul>
+<li>睡姿：建议胎儿型睡姿，面向非重要的一侧（惯用右手则面向左侧）；</li>
+<li>半夜其实并不需要喝水，口渴是因为用嘴呼吸了</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[健身那点事]]></title>
-        <id>https://feelyu.github.io/post/jian-shen</id>
-        <link href="https://feelyu.github.io/post/jian-shen">
+        <id>https://feelyu.github.io//post/jian-shen</id>
+        <link href="https://feelyu.github.io//post/jian-shen">
         </link>
         <updated>2019-09-19T09:45:19.000Z</updated>
         <summary type="html"><![CDATA[<p>2019年6月中旬我开始尝试去健身房锻炼。</p>
@@ -35,10 +79,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[我与Hackintosh]]></title>
-        <id>https://feelyu.github.io/post/Hackintosh</id>
-        <link href="https://feelyu.github.io/post/Hackintosh">
+        <id>https://feelyu.github.io//post/Hackintosh</id>
+        <link href="https://feelyu.github.io//post/Hackintosh">
         </link>
-        <updated>2019-09-19T08:04:47.000Z</updated>
+        <updated>2019-09-19T08:04:44.000Z</updated>
         <summary type="html"><![CDATA[<p>我是在2014年的时候开始接触黑苹果，直至2019年好像每年都有折腾，为此浪费不少时间与金钱。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>我是在2014年的时候开始接触黑苹果，直至2019年好像每年都有折腾，为此浪费不少时间与金钱。</p>
@@ -52,19 +96,20 @@ EmuVariableUefi-64.efi（对UEFI启动无法调用NVRAM的机器提供的NVRAM�
 FSInject-64.efi（加载clover-kexts驱动）<br>
 VBoxHfs-64.efi（提供HFS Plus 文件系统的支持）<br>
 VirtualSmc.efi（替代facksmc）</p>
-<h3 id="osx10146-打不开jpg无响应">osx10.14.6 打不开jpg（无响应）</h3>
+<h3 id="osx10146-打开jpg无响应">osx10.14.6 打开jpg无响应</h3>
 <p>boot arguments添加</p>
 <pre><code>shikigva=32 shiki-id=Mac-7BA5B2D9E42DDD94
 </code></pre>
 <p>下载<code>NoVPAJpeg.kext</code><br>
 放到EFI\Clover\kexts\other里，重启即可。</p>
 <p>NoVPAJpeg Lilu插件介绍：禁用AppleVPA框架的硬件JPEG解碼功能，該功能在某些系統上打破了Preview和Quicklook。</p>
+<p><strong>升级到macOS Catalina（10.15）后就没有这个问题了</strong></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[我又开始弄博客了]]></title>
-        <id>https://feelyu.github.io/post/wo-you-kai-shi-nong-bo-ke-liao</id>
-        <link href="https://feelyu.github.io/post/wo-you-kai-shi-nong-bo-ke-liao">
+        <id>https://feelyu.github.io//post/wo-you-kai-shi-nong-bo-ke-liao</id>
+        <link href="https://feelyu.github.io//post/wo-you-kai-shi-nong-bo-ke-liao">
         </link>
         <updated>2019-09-19T08:03:01.000Z</updated>
         <content type="html"><![CDATA[<p>像我这样三分钟热度的人，我赌自己坚持不了3个月，更新少于10篇。</p>
