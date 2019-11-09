@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feelyu.github.io/</id>
     <title>FeelYu</title>
-    <updated>2019-10-17T08:10:26.177Z</updated>
+    <updated>2019-11-09T08:24:17.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feelyu.github.io/"/>
     <link rel="self" href="https://feelyu.github.io//atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://feelyu.github.io//images/avatar.png</logo>
     <icon>https://feelyu.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, FeelYu</rights>
+    <entry>
+        <title type="html"><![CDATA[关于不带手机回家]]></title>
+        <id>https://feelyu.github.io//post/guan-yu-bu-dai-shou-ji-hui-jia</id>
+        <link href="https://feelyu.github.io//post/guan-yu-bu-dai-shou-ji-hui-jia">
+        </link>
+        <updated>2019-11-09T08:19:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>从2019.11.04开始，我尝试在工作日中，把我的娱乐手机放在公司，只把iPhone SE带回家。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>从2019.11.04开始，我尝试在工作日中，把我的娱乐手机放在公司，只把iPhone SE带回家。</p>
+<!-- more -->
+<p>至于为什么要带iPhone SE,这也是一种无奈，毕竟我去健身房要刷二维码，买东西要付款，如果有人紧急联系我，也能找到我，而iPhone SE屏幕太小玩不了什么，所以晚上在家的时候也很少玩它，最多的用途就是拿它听歌。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于睡觉]]></title>
         <id>https://feelyu.github.io//post/guan-yu-shui-jue</id>
@@ -79,7 +92,10 @@
 <p>我在健身房得到了一个人的指导，他让我意识到了，锻炼胸部的时候，要夹紧肩胛骨。在9月的时候，可以明显的看到我是有胸肌人了，但左右大小不一致，原因是我右手臂力借用较多，目前我还不知道该怎么解决它。<br>
 这时我开始尝试去练背部和腹部。</p>
 <h3 id="第4个月">第4个月</h3>
-<p>随着胸肌越来越大，肚子两边的肥肉有点扎眼，我尝试每周4练腹部，每次11分钟。我能感受到腹部的肌肉，但是脂肪太多了，显现不出来。</p>
+<p>随着胸肌越来越大，肚子两边的肥肉有点扎眼，我尝试每周练2-4次腹部(每次11分钟)。虽然我能感受到腹部的肌肉，但是脂肪太多了，显现不出来。</p>
+<h3 id="第5个月-201911">第5个月 2019.11</h3>
+<p>由于没有系统的健身方案，我每天去健身房依旧是瞎几把乱练，现在练胸不像以前那样练完第二天开始酸痛。我不敢加大重量，因为我笨我怕受伤，我要保持敬畏之心去对待这个事情，在我没有足够的知识(能力)去支撑我做下一步的时候，我就选择保守一点吧。</p>
+<p>我开始尝试练肩膀和背部。</p>
 ]]></content>
     </entry>
     <entry>
@@ -88,10 +104,11 @@
         <link href="https://feelyu.github.io//post/Hackintosh">
         </link>
         <updated>2019-09-19T08:04:44.000Z</updated>
-        <summary type="html"><![CDATA[<p>我是在2014年的时候开始接触黑苹果，直至2019年好像每年都有折腾，为此浪费不少时间与金钱。</p>
+        <summary type="html"><![CDATA[<p>我是在2014年的时候开始接触黑苹果，直至2019年每年都有在折腾（买机玩）。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>我是在2014年的时候开始接触黑苹果，直至2019年好像每年都有折腾，为此浪费不少时间与金钱。</p>
+        <content type="html"><![CDATA[<p>我是在2014年的时候开始接触黑苹果，直至2019年每年都有在折腾（买机玩）。</p>
 <!-- more -->
+<p>现在的我开始学习极简注意，就把自己的笔记本和台式机都卖掉了（在家仅用手机），在公司的电脑上装了黑苹果，i3-8100+R9 380,日常办公码字没问题。</p>
 <h2 id="我在macos-mojave上遇到的问题">我在MacOS MoJave上遇到的问题</h2>
 <p>先梳理一下clover efi文件</p>
 <p><strong>Drivers/UEFI</strong><br>
