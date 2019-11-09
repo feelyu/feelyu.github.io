@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://feelyu.github.io/</id>
     <title>FeelYu</title>
-    <updated>2019-11-09T08:24:17.571Z</updated>
+    <updated>2019-11-09T08:34:36.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://feelyu.github.io/"/>
     <link rel="self" href="https://feelyu.github.io//atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://feelyu.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, FeelYu</rights>
     <entry>
-        <title type="html"><![CDATA[关于不带手机回家]]></title>
+        <title type="html"><![CDATA[不带手机回家]]></title>
         <id>https://feelyu.github.io//post/guan-yu-bu-dai-shou-ji-hui-jia</id>
         <link href="https://feelyu.github.io//post/guan-yu-bu-dai-shou-ji-hui-jia">
         </link>
@@ -24,14 +24,14 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于睡觉]]></title>
+        <title type="html"><![CDATA[如何睡觉？]]></title>
         <id>https://feelyu.github.io//post/guan-yu-shui-jue</id>
         <link href="https://feelyu.github.io//post/guan-yu-shui-jue">
         </link>
         <updated>2019-10-17T07:23:48.000Z</updated>
-        <summary type="html"><![CDATA[<p>最近我连续3天没有睡好了，于是我去研究怎么睡觉。</p>
+        <summary type="html"><![CDATA[<p>最近我连续3天没有睡好了，于是我就去研究如何睡觉。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>最近我连续3天没有睡好了，于是我去研究怎么睡觉。</p>
+        <content type="html"><![CDATA[<p>最近我连续3天没有睡好了，于是我就去研究如何睡觉。</p>
 <!-- more -->
 <p>入睡时间：晚上 10 點 45 分 至 12 點 45 分 (22:45-00:45 h)<br>
 起床时间：早上 6 點半 至 8 點半 (06:30-08:30 h)</p>
@@ -124,7 +124,6 @@ VirtualSmc.efi（替代facksmc）</p>
 </code></pre>
 <p>下载<code>NoVPAJpeg.kext</code><br>
 放到EFI\Clover\kexts\other里，重启即可。</p>
-<p>NoVPAJpeg Lilu插件介绍：禁用AppleVPA框架的硬件JPEG解碼功能，該功能在某些系統上打破了Preview和Quicklook。</p>
 <p><strong>升级到macOS Catalina（10.15）后就没有这个问题了</strong></p>
 ]]></content>
     </entry>
